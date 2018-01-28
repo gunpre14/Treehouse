@@ -1,0 +1,19 @@
+D:\Dokumenter\Programmering\Visual Studio\Projects\MvcMovie\MvcMovie
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=MvcMovie
+--content-root=D:\Dokumenter\Programmering\Visual Studio\Projects\MvcMovie\MvcMovie
+--file=D:\Dokumenter\Programmering\Visual Studio\Projects\MvcMovie\MvcMovie\Views\HelloWorld\Index.cshtml
+--file=D:\Dokumenter\Programmering\Visual Studio\Projects\MvcMovie\MvcMovie\Views\HelloWorld\Welcome.cshtml
+--file=D:\Dokumenter\Programmering\Visual Studio\Projects\MvcMovie\MvcMovie\Views\Home\About.cshtml
+--file=D:\Dokumenter\Programmering\Visual Studio\Projects\MvcMovie\MvcMovie\Views\Home\Contact.cshtml
+--file=D:\Dokumenter\Programmering\Visual Studio\Projects\MvcMovie\MvcMovie\Views\Home\Index.cshtml
+--file=D:\Dokumenter\Programmering\Visual Studio\Projects\MvcMovie\MvcMovie\Views\Movies\Create.cshtml
+--file=D:\Dokumenter\Programmering\Visual Studio\Projects\MvcMovie\MvcMovie\Views\Movies\Delete.cshtml
+--file=D:\Dokumenter\Programmering\Visual Studio\Projects\MvcMovie\MvcMovie\Views\Movies\Details.cshtml
+--file=D:\Dokumenter\Programmering\Visual Studio\Projects\MvcMovie\MvcMovie\Views\Movies\Edit.cshtml
+--file=D:\Dokumenter\Programmering\Visual Studio\Projects\MvcMovie\MvcMovie\Views\Movies\Index.cshtml
+--file=D:\Dokumenter\Programmering\Visual Studio\Projects\MvcMovie\MvcMovie\Views\Shared\Error.cshtml
+--file=D:\Dokumenter\Programmering\Visual Studio\Projects\MvcMovie\MvcMovie\Views\Shared\_Layout.cshtml
+--file=D:\Dokumenter\Programmering\Visual Studio\Projects\MvcMovie\MvcMovie\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\Dokumenter\Programmering\Visual Studio\Projects\MvcMovie\MvcMovie\Views\_ViewImports.cshtml
+--file=D:\Dokumenter\Programmering\Visual Studio\Projects\MvcMovie\MvcMovie\Views\_ViewStart.cshtml
